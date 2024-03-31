@@ -17,5 +17,6 @@
 
 This **recipe** is about an  <em>apple cookie</em>
 
+![apple cookie](./recipe.jpg)
+
 It is written on Mar 21st 2024
-### This is a REMOTE change :O

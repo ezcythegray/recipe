@@ -15,7 +15,7 @@
 * Third item
 * Fourth item
 
-This recipe is about an apple cookie
+This **recipe** is about an  <em>apple cookie</em>
 
 It is written on Mar 21st 2024
 ### This is a REMOTE change :O

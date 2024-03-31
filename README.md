@@ -1,7 +1,6 @@
-### This is a LOCAL change :)
-# recipe
-line 2 changed remotely
-Cookie Recipe by Ezgi
+
+# Recipe
+### Cookie Recipe by Ezgi
 
 This recipe is about an apple cookie
 
